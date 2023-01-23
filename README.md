@@ -24,8 +24,8 @@ Print the eigen values and vectors
 ## Program:
 ```
 #Program to find the eigen values and eigen vectors.
-#Developed by: 
-#RegisterNumber:
+#Developed by: S.Prema latha
+#RegisterNumber:22009393
 import numpy as np
 A=np.array([[-2,2,-3],[2,1,-6],[-1,-2,0]])
 values,vectors = np.linalg.eig(A)
